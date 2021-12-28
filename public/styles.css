@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    padding-top: 20%;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    line-height: 1.7;
+    font-size: 22px;
+    background: linear-gradient(rgba(0, 0, 0, 0.904), rgba(78, 78, 78, 0.795)), url(https://raw.githubusercontent.com/jameshtwose/services.jms.rocks/main/img/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+input {
+    font-size: 18px;
+    text-align: center;
+}
+
+button {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+#generate {
+    background-color: rgba(233, 179, 0, 0.747);
+}
+
+#copy {
+    background-color: rgba(230, 0, 0, 0.747);
+}
