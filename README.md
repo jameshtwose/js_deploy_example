@@ -1,2 +1,2 @@
-# js_deploy_example
-Learning how to deploy a javascript app to Heroku
+# word_picker_js
+Learning how to deploy a simple javascript app to Heroku
