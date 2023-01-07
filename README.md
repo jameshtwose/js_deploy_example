@@ -1,2 +1,2 @@
 # word_picker_js
-Learning how to deploy a simple javascript app to Heroku
+A simple word picker app for fun.
